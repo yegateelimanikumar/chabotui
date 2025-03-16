@@ -13,4 +13,6 @@ ng serve
 
 
 Screenshots of the project:
+![image](https://github.com/user-attachments/assets/10b61664-7e61-4f61-b784-23c0a8ecd208)
+
 ![image](https://github.com/user-attachments/assets/5d6570d0-a162-488c-b7f6-fc147f7589c5)
