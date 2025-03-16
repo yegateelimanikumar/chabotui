@@ -10,3 +10,7 @@ npm install
 5. Serve the Angular Application
 Start the development server with:
 ng serve
+
+
+Screenshots of the project:
+![image](https://github.com/user-attachments/assets/5d6570d0-a162-488c-b7f6-fc147f7589c5)
